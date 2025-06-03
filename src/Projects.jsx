@@ -19,14 +19,14 @@ function Projects() {
         link: 'https://doglist.vercel.app/'
     },
     {
-        title: 'Password Generator',
-        description: 'A JavaScript app to generate secure passwords.',
-        link: ''
+        title: 'To Do List',
+        description: 'A to do list project made using ',
+        link: 'https://to-do-list-mauve-gamma-70.vercel.app/'
     },
     {
-        title: 'Password Generator',
-        description: 'A JavaScript app to generate secure passwords.',
-        link: ''
+        title: '5 Day Forecast App',
+        description: 'A 5 day weather forecast of any city in the united states over the next 5 days. It was made using React and javascript.',
+        link: 'https://5-d-forecaster-app.vercel.app/'
     },
     // Add more projects here
   ];

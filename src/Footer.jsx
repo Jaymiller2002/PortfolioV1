@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer id="contact">
       <h2>Contact Me</h2>
-      <p>Email: Jay.miller02@icloud.com</p>
+      <p>Email: jay.miller@awesomeinc.org</p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/jay-miller-1701062a2">Jay Miller</a></p>
     </footer>
   );

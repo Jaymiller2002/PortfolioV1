@@ -1,10 +1,9 @@
 import React from 'react';
+import Resume from './assets/Resume.pdf';
 
 function DownloadResume() {
   return (
-    <a href="" download="">
-      Download My Resume
-    </a>
+    <a href={Resume} download> Download Resume</a>
   );
 }
 

@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from './Header';
+// import Header from './Header';
 import Home from './Home';
 import About from './About';
 import Projects from './Projects';
 import Skills from './Skills';
-import Footer from './Footer';
+// import Footer from './Footer';
 import './App.css';
-import ThemeSwitcher from './ThemeSwitcher';
+// import ThemeSwitcher from './ThemeSwitcher';
 import Resume from "./DownloadResume";
 import SocialMedia from './SocialMedia';
 
@@ -18,7 +18,7 @@ function App() {
       <Resume />
       <Projects />
       <Skills />
-      <ThemeSwitcher />
+      {/* <ThemeSwitcher /> */}
       <SocialMedia />
     </div>
   );
